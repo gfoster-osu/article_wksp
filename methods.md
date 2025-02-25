@@ -1,5 +1,6 @@
 # Methods
 ## Experiment A
+## Experiment B
 ## Experiment C
 ## Experiment F
-a look into how uncreative this can get
+
